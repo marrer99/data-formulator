@@ -17,3 +17,8 @@ duckdb
 boto3
 pyodbc
 -e . #also need to install data formulator itself
+
+# Azure and Power BI dependencies
+azure-identity>=1.12.0
+msal>=1.20.0
+requests>=2.28.0
